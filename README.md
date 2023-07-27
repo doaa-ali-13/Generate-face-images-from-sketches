@@ -1,5 +1,5 @@
 # Generate-face-images-from-sketches
-In this project we implement the approach that was mentioned in [1].
+In this project we implement the approach that was mentioned in [1](https://arxiv.org/abs/1711.08972).
 we try to generate real face images from bad hand drawning.
 this approach containes two phases:
 1- model phase:
